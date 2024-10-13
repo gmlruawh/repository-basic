@@ -1,4 +1,4 @@
-# repository
----
-### 학번: 2020732038
-### 이름: 조겸희
+# repository-basic
+
+### 생년원일: 01.07.08
+### 영문 이름: CHO KYUMHEE
