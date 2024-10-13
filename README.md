@@ -1,7 +1,9 @@
 # repository-basic
 
-### 학번: 2020732038
-### 이름: 조겸희
+### 생년월일: 01.07.08
 ### 영문 이름: CHO KYUMHEE
 ---
-### 이 부분은 `Branch01` 에서 추가된 부분입니다.
+### 생년월일: 01.11.24
+### 영문 이름: CHOI MINSEONG
+
+### 이 respository-basic은 `minseong124123123`가 추가로 수정한 부분입니다.
